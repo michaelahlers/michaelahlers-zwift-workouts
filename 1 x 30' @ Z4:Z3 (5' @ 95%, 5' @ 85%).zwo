@@ -1,0 +1,23 @@
+<workout_file>
+    <author>Michael Ahlers</author>
+    <name>1 x 30' @ Z4/Z3 (5' @ 95%, 5' @ 85%)</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="0.65"/>
+        <SteadyState Duration="180" Power="0.80"/>
+        <SteadyState Duration="120" Power="0.95"/>
+        <FreeRide Duration="180" FlatRoad="1"/>
+        <SteadyState Duration="60" Power="1.10"/>
+        <FreeRide Duration="60" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.85"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.85"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.85"/>
+    </workout>
+</workout_file>

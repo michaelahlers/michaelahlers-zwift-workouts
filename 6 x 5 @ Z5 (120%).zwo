@@ -1,0 +1,26 @@
+<workout_file>
+    <author>M.Ahlers (FASC)</author>
+    <name>6 x 5' @ Z5 (120%)</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="0.65"/>
+        <SteadyState Duration="180" Power="0.80"/>
+        <SteadyState Duration="120" Power="0.95"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.20"/>
+    </workout>
+</workout_file>

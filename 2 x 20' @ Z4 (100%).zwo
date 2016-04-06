@@ -1,0 +1,25 @@
+<workout_file>
+    <author>Michael Ahlers</author>
+    <name>2 x 20' @ Z4 (100%)</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="0.65"/>
+        <SteadyState Duration="180" Power="0.80"/>
+        <SteadyState Duration="120" Power="0.95"/>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <FreeRide Duration="600" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+        <SteadyState Duration="300" Power="1.00"/>
+    </workout>
+</workout_file>
