@@ -1,0 +1,28 @@
+<workout_file>
+    <author>Michael Ahlers</author>
+    <name>1 x 60' @ Z4 (100%)</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="1"/>
+        <SteadyState Duration="300" Power="0.65"/>
+        <SteadyState Duration="180" Power="0.80"/>
+        <SteadyState Duration="120" Power="0.95"/>
+        <FreeRide Duration="300" FlatRoad="1">
+            <textevent timeoffset="0" message="Be sure to eat."/>
+        </FreeRide>
+        <SteadyState Duration="600" Power="1.00"/>
+        <SteadyState Duration="600" Power="1.00"/>
+        <SteadyState Duration="600" Power="1.00">
+            <textevent timeoffset="0" message="Remember to eat!"/>
+        </SteadyState>
+        <SteadyState Duration="600" Power="1.00"/>
+        <SteadyState Duration="600" Power="1.00">
+            <textevent timeoffset="0" message="Remember to eat!"/>
+        </SteadyState>
+        <SteadyState Duration="600" Power="1.00"/>
+    </workout>
+</workout_file>
