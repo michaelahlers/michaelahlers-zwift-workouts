@@ -1,9 +1,5 @@
 # Zwift Workouts
 
-Personal collection of structured training rides for Zwift.
-
-## Summary  
-
 Apart from being fun to ride, [Zwift](http://zwift.com) offers a compelling experience for cyclists wishing to ride intervals indoors. It comes with a great set of workouts built-in, and this collection includes variants of those which fit your author's personal preferences:
 
 1. Trades graduated, ramped warmups for discrete intervals.
