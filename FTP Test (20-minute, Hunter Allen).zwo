@@ -8,27 +8,27 @@
     </tags>
     <workout>
         <FreeRide Duration="1200" FlatRoad="1"/>
-        <SteadyState Duration="60" Power="0.65" pace="189">
+        <SteadyState Duration="60" Power="0.65">
             <textevent timeoffset="0" message="110 RPM"/>
         </SteadyState>
         <FreeRide Duration="60" FlatRoad="1"/>
-        <SteadyState Duration="60" Power="0.65" pace="189">
+        <SteadyState Duration="60" Power="0.65">
             <textevent timeoffset="0" message="110 RPM"/>
         </SteadyState>
         <FreeRide Duration="60" FlatRoad="1"/>
-        <SteadyState Duration="60" Power="0.65" pace="189">
+        <SteadyState Duration="60" Power="0.65">
             <textevent timeoffset="0" message="110 RPM"/>
         </SteadyState>
         <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.1" pace="189"/>
-        <SteadyState Duration="600" Power="0.65" pace="189"/>
-        <SteadyState Duration="300" Power="0.95" pace="189">
+        <SteadyState Duration="300" Power="1.1"/>
+        <SteadyState Duration="600" Power="0.65"/>
+        <SteadyState Duration="300" Power="0.95">
             <textevent timeoffset="0" message="20-minute time trial effort"/>
         </SteadyState>
-        <SteadyState Duration="300" Power="0.95" pace="189"/>
-        <SteadyState Duration="300" Power="0.95" pace="189"/>
-        <SteadyState Duration="300" Power="0.95" pace="189"/>
-        <SteadyState Duration="600" Power="0.65" pace="189"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <SteadyState Duration="600" Power="0.65"/>
         <FreeRide Duration="900" FlatRoad="1"/>
     </workout>
 </workout_file>
