@@ -13,3 +13,9 @@ Apart from being fun to ride, [Zwift](http://zwift.com) offers a compelling expe
     - Because your author is a nerd.
 
 Complaints, comments, and pull requests are all, of course, welcome and strongly encouraged!
+
+## Details
+
+### FTP Test (20-minute, Hunter Allen)
+
+Modeled after [_What Is FTP?_](http://hunterallenpowerblog.com/2013/01/what-is-ftp.html) from [Hunter Allen Power Blog](hunterallenpowerblog.com).
