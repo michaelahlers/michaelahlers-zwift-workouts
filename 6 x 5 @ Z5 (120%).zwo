@@ -1,26 +1,38 @@
 <workout_file>
-    <author>M.Ahlers (FASC)</author>
+    <author>Michael Ahlers</author>
     <name>6 x 5' @ Z5 (120%)</name>
     <description></description>
     <tags>
         <tag name="INTERVALS"/>
     </tags>
     <workout>
-        <FreeRide Duration="300" FlatRoad="1"/>
+        <FreeRide Duration="300" FlatRoad="0"/>
         <SteadyState Duration="300" Power="0.65"/>
         <SteadyState Duration="300" Power="0.80"/>
         <SteadyState Duration="300" Power="0.95"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
-        <FreeRide Duration="300" FlatRoad="1"/>
-        <SteadyState Duration="300" Power="1.20"/>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 1 / 6"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 2 / 6"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 3 / 6"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 4 / 6"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 5 / 6"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="1.20">
+            <textevent timeoffset="0" message="Z5 6 / 6"/>
+        </SteadyState>
     </workout>
 </workout_file>
