@@ -1,0 +1,34 @@
+<workout_file>
+    <author>Michael Ahlers</author>
+    <name>5 x 6' @ Z5 (110%)</name>
+    <description></description>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="300" Power="0.65"/>
+        <SteadyState Duration="300" Power="0.80"/>
+        <SteadyState Duration="300" Power="0.95"/>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="360" Power="1.10">
+            <textevent timeoffset="0" message="Z5 1 / 5"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="360" Power="1.10">
+            <textevent timeoffset="0" message="Z5 2 / 5"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="360" Power="1.10">
+            <textevent timeoffset="0" message="Z5 3 / 5"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="360" Power="1.10">
+            <textevent timeoffset="0" message="Z5 4 / 5"/>
+        </SteadyState>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <SteadyState Duration="360" Power="1.10">
+            <textevent timeoffset="0" message="Z5 5 / 5"/>
+        </SteadyState>
+    </workout>
+</workout_file>
